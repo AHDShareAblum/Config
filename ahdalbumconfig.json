@@ -2,6 +2,6 @@
     "exit": {
         "title": "测试标题",
         "detail": "测试内容",
-        "isExit": true
+        "isExit": false
     }
 }
